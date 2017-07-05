@@ -64,7 +64,7 @@ public class AppTest
         			+ "\"confirmNewPassword\": \"1\""
         			+ "}";
         	 
-        	String urlContrasena="http://172.30.9.135/cambioContrasena";
+        	String urlContrasena="http://172.30.9.135:8080/cambioContrasena";
   
         	
         	 given(). 
