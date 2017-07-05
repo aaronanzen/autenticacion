@@ -64,7 +64,7 @@ public class AppTest
         			+ "\"confirmNewPassword\": \"1\""
         			+ "}";
         	 
-        	String urlContrasena="http://beo-mockup/cambioContrasena";
+        	String urlContrasena="http://beo-mockup:80/cambioContrasena";
   
         	
         	 given(). 
